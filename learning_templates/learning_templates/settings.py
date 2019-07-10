@@ -25,7 +25,7 @@ SECRET_KEY = '73+y@7dmacg-x10c@^!&ymn*gm&zkgvo32uqk_l0hy!3gvwiuw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kokiwadas.pythonanywhere.com']
 
 
 # Application definition
